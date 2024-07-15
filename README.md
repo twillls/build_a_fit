@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Build-A-Fit
+Welcome to my personal outfit builder app! This app is 🚧 UNDER CONSTRUCTION 🚧
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+What's to come:
+- Database connection
+- Shirt, hat, accessory, bottoms, shoes options
+- A randomizer button
+
+This app is build with React!
+
 
 ## Available Scripts
 
